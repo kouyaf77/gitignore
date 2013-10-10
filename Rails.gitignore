@@ -4,6 +4,10 @@
 capybara-*.html
 .rspec
 .rvmrc
+.ruby-version
+.rbenv-gemsets
+.powder
+.powrc
 /.bundle
 /vendor/bundle
 /log/*
@@ -17,3 +21,4 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
+.DS_Store
